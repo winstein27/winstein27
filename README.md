@@ -1,34 +1,28 @@
-<h2>Hey there! I'm Winstein Martins!</h2>
+# Winstein Martins
 
-### 👨🏻‍💻 &nbsp;About Me
+Backend engineer in Brasília, Brazil. I build and run TypeScript and Node.js systems: real-time services, integrations between systems that were never meant to talk to each other, and the observability that keeps them up.
 
-💡 &nbsp;I like to explore new technologies and develop software solutions.\
-🎓 &nbsp;I graduated in Software Engineering at the Uiversidade de Brasília - UnB.\
-🌱 &nbsp;I'm on track for applying more of frontend technologies.\
-💬 &nbsp;Feel free to reach out to me anytime.\
-📄 &nbsp;Please have a look at my [LinkedIn profile](https://www.linkedin.com/in/winstein-martins/) for more details about me. I'm open to feedback and suggestions!
+## Some of what I've built
 
-### 🛠 &nbsp;Tech Stack
+- **Hefesto.** Main developer of the 24/7 call platform behind the 190 and 193 emergency lines in Brazil's Federal District (about 1.8M calls a year): real-time call queues, telephony integration, and an on-premises LLM assistant in the live workflow, with the dispatcher in control.
+- **Gateway to Brazil's national dispatch system.** NestJS service with mTLS, OIDC, retries and structured logs, plus a client SDK generated from OpenAPI.
+- **CONAT.** A system shared by two agencies to query police incidents (Next.js, NestJS, MongoDB, SQL Server).
+- **Shared React component library.** Used across the department's systems, with end-to-end tests in CI.
+- **Incident data on crews' phones.** A progressive web app used by 1,000+ firefighters on the way to a call.
 
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
-![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
-![MUI](https://img.shields.io/badge/-MUI-05122A?style=flat&logo=mui)&nbsp;
+These were built for government agencies, so the code is not public.
 
-### ⚙️ &nbsp;GitHub Analytics
+Before software, I was a firefighter.
 
-<p align="center">
-<a href="https://github.com/winstein27">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=winstein27&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=winstein27&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
+## Working on in public
 
-### 🤝🏻 &nbsp;Connect with Me
+- **Backend katas, test-first.** Small backend exercises in TypeScript, built red, green, refactor, one commit per step.
+- **RAG over public incident postmortems.** An LLM engineering side project: retrieval, evaluation and the trade-offs behind them.
 
-<p align="center">
+## Stack
 
-<a href="https://www.linkedin.com/in/winstein-martins/"><img src="https://img.shields.io/badge/-Winstein%20Martins-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-</p>
+TypeScript, Node.js, NestJS · PostgreSQL, SQL Server, MongoDB, Redis · REST, OpenAPI, Socket.IO · Docker, GitLab CI · Grafana, Loki · LLM integration
+
+## Contact
+
+[LinkedIn](https://www.linkedin.com/in/winstein-martins)
