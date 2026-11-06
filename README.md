@@ -16,7 +16,7 @@ Before software, I was a firefighter.
 
 ## Working on in public
 
-- **Backend katas, test-first.** Small backend exercises in TypeScript, built red, green, refactor, one commit per step.
+- **[Backend katas, test-first](https://github.com/winstein27/backend-practice).** Small backend exercises in TypeScript, built red, green, refactor, one commit per step.
 - **RAG over public incident postmortems.** An LLM engineering side project: retrieval, evaluation and the trade-offs behind them.
 
 ## Stack
