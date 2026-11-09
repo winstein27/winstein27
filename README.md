@@ -16,8 +16,8 @@ Before software, I was a firefighter.
 
 ## Working on in public
 
+- **[RAG over public incident postmortems](https://github.com/winstein27/postmortem-rag)** (in progress). Queue-based ingestion with idempotent workers, hybrid search, answers with citations, and an automated evaluation that measures retrieval and answer quality.
 - **[Backend katas, test-first](https://github.com/winstein27/backend-practice).** Small backend exercises in TypeScript, built red, green, refactor, one commit per step.
-- **RAG over public incident postmortems** (in progress). Queue-based ingestion with idempotent workers, hybrid search, answers with citations, and an automated evaluation that measures retrieval and answer quality.
 
 ## Stack
 
